@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.centri {
+    margin-left: 100px;
+   
+}
+.didikonteineri {
+ 
+  padding-left: 25px;
+ 
+}
+h3{
+    font-size: 64px;
+    padding-top: 20px;
+    padding-left: 104px;
+    height: 64px;
+    width: 254px;
+    color: #4B4B4B;
+}
+.manu {
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+span {
+    margin: 20px;
+    color: rgba(75, 75, 75, 0.5);
+}
+.all {
+    color: #4B4B4B;
+}
+.manu1 {
+    width: 100%;
+    padding: 10px;
+    
+     display: flex;
+     
+}
+.manu2 {
+    width: 100%;
+    padding: 10px;
+    
+     display: flex;
+}
+.savardzeli {
+    background-color: #FAF4EF;
+   border-bottom-left-radius: 50px;
+    width: 366px;
+    height: 420px;
+    margin: 20px;
+}
+h3{
+    font-size: 36px;
+    padding-top: 20px;
+    width: 289px;
+    height: 54px;
+    padding-left: 25px;
+    color: #4B4B4B;
+}
+h4 {
+    font-size: 24px;
+    width: 177px;
+    height: 41px;
+    padding-left: 30px;
+    color: #737373;
+}
+.surati1 {
+    padding-left: 95px;
+}
+.surati2 {
+    display: flex;
+    justify-content: center;
+}
+.surati3 {
+    display: flex;
+    justify-content: center;
+}
